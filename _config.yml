@@ -1,0 +1,8 @@
+title: kuriko Instagram Insights
+description: Instagramインサイトを本人のGoogle Driveへ記録する自分用の自動化
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
